@@ -57,7 +57,7 @@ class ControllerPaymentUPC extends Controller {
 			$data['language'] = 'en';
 	}
 	
-	// local vals
+	// vars
 	$merchant_id = $this->config->get('upc_merch_id');
 	$terminal_id = $this->config->get('upc_terminal_id');	
 	$time = date('ymdHis');	
