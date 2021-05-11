@@ -1,2 +1,2 @@
 # upc_opencart2
-UPC payment gateway extension for OpenCart v2
+UPC payment extension for OpenCart v2
